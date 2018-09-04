@@ -1,0 +1,10 @@
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\bin\Debug\netcoreapp1.1\tyonayte.deps.json
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\bin\Debug\netcoreapp1.1\tyonayte.runtimeconfig.json
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\bin\Debug\netcoreapp1.1\tyonayte.runtimeconfig.dev.json
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\bin\Debug\netcoreapp1.1\tyonayte.dll
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\bin\Debug\netcoreapp1.1\tyonayte.pdb
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\obj\Debug\netcoreapp1.1\tyonayte.csprojResolveAssemblyReference.cache
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\obj\Debug\netcoreapp1.1\tyonayte.csproj.CoreCompileInputs.cache
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\obj\Debug\netcoreapp1.1\tyonayte.AssemblyInfo.cs
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\obj\Debug\netcoreapp1.1\tyonayte.dll
+C:\Users\Lauri\Documents\Visual Studio 2017\Projects\tyonayte\tyonayte\obj\Debug\netcoreapp1.1\tyonayte.pdb
